@@ -1,2 +1,0 @@
-# SmartCanSite
-fdad
